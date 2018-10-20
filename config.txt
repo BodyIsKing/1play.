@@ -1,4 +1,4 @@
-token= هنا حق التوكين حق بوتك
+token= NTAzMzE0MTQ4OTk4OTA1ODcx.Dq0rsg.s0V8vxayNsICkjJSEnDvfGfREU0
 owner= 195088897234042880 
 prefix= 1
 game= 1help | 
