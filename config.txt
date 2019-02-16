@@ -1,6 +1,6 @@
-token= NTAzMzE0MTQ4OTk4OTA1ODcx.Dq0rsg.s0V8vxayNsICkjJSEnDvfGfREU0
-owner= 195088897234042880 
+token= NTQ2MjMyNDg1Nzk3ODIyNDk0.D0lSMg.rODIHlCIJbFLvCgmhlM_lRydrJs
+owner= 448964162840690700
 prefix= 1
-game= 1help | The Legend
-stayinchannel=true
-songinstatus=true
+game= 1help | FalconCommunity
+stayinchannel= false
+songinstatus=false
